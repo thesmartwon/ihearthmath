@@ -1,0 +1,3929 @@
+Abomination
+Taunt. Deathrattle: Deal 2 damage to ALL characters.
+Neutral
+5
+4
+4
+Expert
+Minion
+1267
+
+Abusive Sergeant
+Battlecry: Give a minion +2 Attack this turn.
+Neutral
+1
+2
+1
+Expert
+Minion
+2249
+
+Acidic Swamp Ooze
+Battlecry: Destroy your opponent's weapon.
+Neutral
+2
+3
+2
+Basic
+Minion
+4968
+
+Acolyte of Pain
+Whenever this minion takes damage, draw a card.
+Neutral
+3
+1
+3
+Expert
+Minion
+3313
+
+Al'Akir the Windlord
+Windfury, Charge, Divine Shield, Taunt
+Shaman
+8
+3
+5
+Expert
+Minion
+519
+
+Alarm-o-Bot
+At the start of your turn, swap this minion with a random one in your hand.
+Neutral
+3
+0
+3
+Expert
+Minion
+340
+
+Aldor Peacekeeper
+Battlecry: Change an enemy minion's Attack to 1.
+Paladin
+3
+3
+3
+Expert
+Minion
+1960
+
+Alexstrasza
+Battlecry: Set a hero's remaining Health to 15.
+Neutral
+9
+8
+8
+Expert
+Minion Dragon
+1465
+
+Amani Berserker
+Enrage: +3 Attack
+Neutral
+2
+2
+3
+Expert
+Minion
+2818
+
+Ancestral Healing
+Restore a minion to full Health and give it Taunt.
+Shaman
+0
+-1
+-1
+Basic
+Spell
+430
+
+Ancestral Spirit
+Choose a minion. When that minion is destroyed, return it to the battlefield.
+Shaman
+2
+-1
+-1
+Expert
+Spell
+437
+
+Ancient Brewmaster
+Battlecry: Return a friendly minion from the battlefield to your hand.
+Neutral
+4
+5
+4
+Expert
+Minion
+955
+
+Ancient Mage
+Battlecry: Give adjacent minions Spell Damage +1.
+Neutral
+4
+2
+5
+Expert
+Minion
+539
+
+Ancient of Lore
+Choose One - Draw 2 cards; or Restore 5 Health.
+Druid
+7
+5
+5
+Expert
+Minion
+1566
+
+Ancient of War
+Choose One - +5 Attack; or +5 Health and Taunt.
+Druid
+7
+5
+5
+Expert
+Minion
+972
+
+Ancient Watcher
+Can't Attack.
+Neutral
+2
+4
+5
+Expert
+Minion
+1467
+
+Angry Chicken
+Enrage: +5 Attack.
+Neutral
+1
+1
+1
+Expert
+Minion Beast
+328
+
+Animal Companion
+Summon a random Beast Companion.
+Hunter
+3
+-1
+-1
+Basic
+Spell
+2282
+
+Huffer
+Charge
+Hunter
+3
+4
+2
+Basic
+Minion Beast
+2282
+
+Midna
+Taunt
+Hunter
+3
+4
+4
+Basic
+Minion Beast
+2282
+
+Leokk
+Other friendly minions have +1 Attack.
+Hunter
+3
+4
+4
+Basic
+Minion Beast
+2282
+
+Arathi Weaponsmith
+Battlecry: Equip a 2/2 weapon.
+Warrior
+4
+3
+3
+Expert
+Minion
+1391
+
+Arcane Explosion
+Deal 1 damage to all enemy minions.
+Mage
+2
+-1
+-1
+Basic
+Spell
+1166
+
+Arcane Golem
+Charge. Battlecry: Give your opponent a Mana Crystal.
+Neutral
+3
+4
+2
+Expert
+Minion
+1098
+
+Arcane Intellect
+Draw 2 cards.
+Mage
+3
+-1
+-1
+Basic
+Spell
+2365
+
+Arcane Missiles
+Deal 3 damage randomly split among enemy characters.
+Mage
+1
+-1
+-1
+Basic
+Spell
+2152
+
+Arcane Shot
+Deal 2 damage.
+Hunter
+1
+-1
+-1
+Basic
+Spell
+1509
+
+Arcanite Reaper
+Warrior
+5
+5
+2
+Basic
+Weapon
+1601
+
+Archmage
+Spell Damage +1
+6
+4
+7
+Basic
+Minion
+988
+
+Archmage Antonidas
+Whenever you cast a spell, put a 'Fireball' spell into your hand.
+Mage
+7
+5
+7
+Expert
+Minion
+881
+
+Argent Commander
+Charge, Divine Shield
+Neutral
+6
+4
+2
+Expert
+Minion
+6035
+
+Argent Protector
+Battlecry: Give a friendly minion Divine Shield.
+Paladin
+2
+2
+2
+Expert
+Minion
+2283
+
+Argent Squire
+Divine Shield
+Neutral
+1
+1
+1
+Expert
+Minion
+3814
+
+Armorsmith
+Whenever a friendly minion takes damage, gain 1 Armor.
+Warrior
+2
+1
+4
+Expert
+Minion
+756
+
+Assassin's Blade
+Rogue
+5
+3
+4
+Basic
+Weapon
+941
+
+Assassinate
+Destroy an enemy minion.
+Rogue
+5
+-1
+-1
+Basic
+Spell
+1293
+
+Auchenai Soulpriest
+Your cards and powers that restore Health now deal damage instead.
+Priest
+4
+3
+5
+Expert
+Minion
+982
+
+Avenging Wrath
+Deal 8 damage randomly split among enemy characters.
+Paladin
+6
+-1
+-1
+Expert
+Spell
+1413
+
+Azure Drake
+Spell Damage +1. Battlecry: Draw a card.
+Neutral
+5
+4
+4
+Expert
+Minion Dragon
+6304
+
+Backstab
+Deal 2 damage to an undamaged minion.
+Rogue
+0
+-1
+-1
+Basic
+Spell
+2177
+
+Bane of Doom
+Deal 2 damage to a character. If that kills it, summon a random Demon.
+Warlock
+5
+-1
+-1
+Expert
+Spell
+288
+
+Baron Geddon
+At the end of your turn, deal 2 damage to ALL other characters.
+Neutral
+7
+7
+5
+Expert
+Minion
+515
+
+Battle Rage
+Draw a card for each damaged friendly character.
+Warrior
+2
+-1
+-1
+Expert
+Spell
+678
+
+Bestial Wrath
+Give a Beast +2 Attack and Immune this turn.
+Hunter
+1
+-1
+-1
+Expert
+Spell
+323
+
+Betrayal
+Force an enemy minion to deal its damage to the minions next to it.
+Rogue
+2
+-1
+-1
+Expert
+Spell
+475
+
+Big Game Hunter
+Battlecry: Destroy a minion with an Attack of 7 or more.
+Neutral
+3
+4
+2
+Expert
+Minion
+2089
+
+Bite
+Give your hero +4 Attack this turn and 4 Armor.
+Druid
+4
+-1
+-1
+Expert
+Spell
+411
+
+Blade Flurry
+Destroy your weapon and deal its damage to all enemies.
+Rogue
+2
+-1
+-1
+Expert
+Spell
+1008
+
+Blessed Champion
+Double a minion's Attack.
+Paladin
+5
+-1
+-1
+Expert
+Spell
+432
+
+Blessing of Kings
+Give a minion +4/+4. (+4 Attack/+4 Health)
+Paladin
+4
+-1
+-1
+Basic
+Spell
+1987
+
+Blessing of Might
+Give a minion +3 Attack.
+Paladin
+1
+-1
+-1
+Basic
+Spell
+1032
+
+Blessing of Wisdom
+Choose a minion. Whenever it attacks, draw a card.
+Paladin
+1
+-1
+-1
+Expert
+Spell
+689
+
+Blizzard
+Deal 2 damage to all enemy minions and Freeze them.
+Mage
+6
+-1
+-1
+Expert
+Spell
+1830
+
+Blood Imp
+Stealth. At the end of your turn, give another random friendly minion +1 Health.
+Demon
+Warlock
+1
+0
+1
+Expert
+Minion
+1446
+
+Blood Knight
+Battlecry: All minions lose Divine Shield. Gain +3/+3 for each Shield lost.
+Neutral
+3
+3
+3
+Expert
+Minion
+1041
+
+Bloodfen Raptor
+2
+3
+2
+Basic
+Minion Beast
+1396
+
+Bloodlust
+Give your minions +3 Attack this turn.
+Shaman
+5
+-1
+-1
+Basic
+Spell
+1341
+
+Bloodmage Thalnos
+Spell Damage +1. Deathrattle: Draw a card.
+Neutral
+2
+1
+1
+Expert
+Minion
+3865
+
+Bloodsail Corsair
+Battlecry: Remove 1 Durability from your opponent's weapon.
+Neutral
+1
+1
+2
+Expert
+Minion Pirate
+321
+
+Bloodsail Raider
+Battlecry: Gain Attack equal to the Attack of your weapon.
+Neutral
+2
+2
+3
+Expert
+Minion Pirate
+1711
+
+Bluegill Warrior
+Charge
+Neutral
+2
+2
+1
+Basic
+Minion Murloc
+2003
+
+Booty Bay Bodyguard
+Taunt
+Neutral
+5
+5
+4
+Basic
+Minion
+1092
+
+Boulderfist Ogre
+
+6
+6
+7
+Basic
+Minion
+1640
+
+Brawl
+Destroy all minions except one. (chosen randomly)
+Warrior
+5
+-1
+-1
+Expert
+Spell
+673
+
+Cabal Shadow Priest
+Battlecry: Take control of an enemy minion that has 2 or less Attack.
+Priest
+6
+4
+5
+Expert
+Minion
+720
+
+Cairne Bloodhoof
+Deathrattle: Summon a 4/5 Baine Bloodhoof.
+Neutral
+6
+4
+5
+Expert
+Minion
+2590
+
+Captain Greenskin
+Battlecry: Give your weapon +1/+1.
+Neutral
+5
+5
+4
+Expert
+Minion Pirate
+542
+
+Captain's Parrot
+Battlecry: Put a random Pirate from your deck into your hand.
+Neutral
+2
+1
+1
+Reward
+Minion Beast
+179
+
+Cenarius
+Choose One - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt.
+Druid
+9
+5
+8
+Expert
+Minion
+787
+
+Charge
+Give a friendly minion +2 Attack and Charge.
+Warrior
+3
+-1
+-1
+Basic
+Spell
+489
+
+Chillwind Yeti
+
+Neutral
+4
+4
+5
+Basic
+Minion
+4639
+
+Circle of Healing
+Restore 4 Health to ALL minions.
+Priest
+0
+-1
+-1
+Expert
+Spell
+854
+
+Claw
+Give your hero +2 Attack this turn and 2 Armor.
+Druid
+1
+-1
+-1
+Basic
+Spell
+1686
+
+Cleave
+Deal 2 damage to two random enemy minions.
+Warrior
+2
+-1
+-1
+Basic
+Spell
+1006
+
+Cold Blood
+Give a minion +2 Attack. Combo: +4 Attack instead.
+Rogue
+1
+-1
+-1
+Expert
+Spell
+1281
+
+Coldlight Oracle
+Battlecry: Each player draws 2 cards.
+Neutral
+3
+2
+2
+Expert
+Minion Murloc
+900
+
+Coldlight Seer
+Battlecry: Give ALL other Murlocs +2 Health.
+Neutral
+3
+2
+3
+Expert
+Minion Murloc
+890
+
+Commanding Shout
+Your minions can't be reduced below 1 Health this turn. Draw a card.
+Warrior
+2
+-1
+-1
+Expert
+Spell
+519
+
+Conceal
+Give your minions Stealth until your next turn.
+Rogue
+1
+-1
+-1
+Expert
+Spell
+593
+
+Cone of Cold
+Freeze a minion and the minions next to it, and deal 1 damage to them.
+Mage
+4
+-1
+-1
+Expert
+Spell
+1451
+
+Consecration
+Deal 2 damage to all enemies.
+Paladin
+4
+-1
+-1
+Basic
+Spell
+2948
+
+Core Hound
+Neutral
+7
+9
+5
+Basic
+Minion Beast
+702
+
+Corruption
+Choose an enemy minion. At the start of your turn, destroy it.
+Warlock
+1
+-1
+-1
+Basic
+Spell
+381
+
+Counterspell
+Secret: When your opponent casts a spell, Counter it.
+Mage
+3
+-1
+-1
+Expert
+Spell
+797
+
+Crazed Alchemist
+Battlecry: Swap the Attack and Health of a minion.
+Neutral
+2
+2
+2
+Expert
+Minion
+765
+
+Cruel Taskmaster
+Battlecry: Deal 1 damage to a minion and give it +2 Attack.
+Warrior
+2
+2
+2
+Expert
+Minion
+1538
+
+Cult Master
+Whenever one of your other minions dies, draw a card.
+Neutral
+4
+4
+2
+Expert
+Minion
+1498
+
+Dalaran Mage
+Spell Damage +1
+Neutral
+3
+1
+4
+Basic
+Minion
+1031
+
+Dark Iron Dwarf
+Battlecry: Give a minion +2 Attack this turn.
+Neutral
+4
+4
+4
+Expert
+Minion
+3300
+
+Darkscale Healer
+Battlecry: Restore 2 Health to all friendly characters.
+Neutral
+5
+4
+5
+Basic
+Minion
+1534
+
+Deadly Poison
+Give your weapon +2 Attack.
+Rogue
+1
+-1
+-1
+Basic
+Spell
+1894
+
+Deadly Shot
+Destroy a random enemy minion.
+Hunter
+3
+-1
+-1
+Expert
+Spell
+1487
+
+Deathwing
+Battlecry: Destroy all other minions and discard your hand.
+Dragon
+10  12  12
+Expert
+Minion
+471
+
+Defender of Argus
+Battlecry: Give adjacent minions +1/+1 and Taunt.
+Neutral
+4
+2
+3
+Expert
+Minion
+8398
+
+Defias Ringleader
+Combo: Summon a 2/1 Defias Bandit.
+Rogue
+2
+2
+2
+Expert
+Minion
+1449
+
+Demolisher
+At the start of your turn, deal 2 damage to a random enemy.
+Neutral
+3
+1
+4
+Expert
+Minion
+902
+
+Demonfire
+Deal 2 damage to a minion. If it’s a friendly Demon, give it +2/+2 instead.
+Warlock
+2
+-1
+-1
+Expert
+Spell
+1044
+
+Dire Wolf Alpha
+Adjacent minions have +1 Attack.
+Neutral
+2
+2
+2
+Expert
+Minion Beast
+2311
+
+Divine Favor
+Draw cards until you have as many in hand as your opponent.
+Paladin
+3
+-1
+-1
+Expert
+Spell
+801
+
+Divine Spirit
+Double a minion's Health.
+Priest
+2
+-1
+-1
+Basic
+Spell
+1237
+
+Doomguard
+Charge. Battlecry: Discard two random cards.
+Demon
+Warlock
+5
+5
+7
+Expert
+Minion
+689
+
+Doomhammer
+Windfury, Overload: (2)
+Shaman
+5
+2
+8
+Expert
+Weapon
+583
+
+Doomsayer
+At the start of your turn, destroy ALL minions.
+Neutral
+2
+0
+7
+Expert
+Minion
+585
+
+Dragonling Mechanic
+Battlecry: Summon a 2/1 Mechanical Dragonling.
+Neutral
+4
+2
+4
+Basic
+Minion
+1024
+
+Drain Life
+Deal 2 damage. Restore 2 Health to your hero.
+Warlock
+3
+-1
+-1
+Basic
+Spell
+849
+
+Dread Corsair
+Taunt. Costs (1) less per Attack of your weapon.
+Neutral
+4
+3
+3
+Expert
+Minion Pirate
+886
+
+Dread Infernal
+Battlecry: Deal 1 damage to ALL other characters.
+Demon
+Warlock
+6
+6
+6
+Basic
+Minion
+509
+
+Druid of the Claw
+Choose One - Charge; or +2 Health and Taunt.
+Druid
+5
+4
+4
+Expert
+Minion
+2302
+
+Dust Devil
+Windfury. Overload: (2)
+Shaman
+1
+3
+1
+Expert
+Minion
+235
+
+Eaglehorn Bow
+Whenever a Secret is revealed, gain +1 Durability.
+Hunter
+3
+3
+2
+Expert
+Weapon
+1421
+
+Earth Elemental
+Taunt. Overload: (3)
+Shaman
+5
+7
+8
+Expert
+Minion
+905
+
+Earth Shock
+Silence a minion, then deal 1 damage to it.
+Shaman
+1
+-1
+-1
+Expert
+Spell
+1686
+
+Earthen Ring Farseer
+Battlecry: Restore 3 Health.
+Neutral
+3
+3
+3
+Expert
+Minion
+2930
+
+Edwin VanCleef
+Combo: Gain +2/+2 for each card played earlier this turn.
+Rogue
+3
+2
+2
+Expert
+Minion
+781
+
+ Tauren Chieftain
+Battlecry: Give both players the power to ROCK! (with a Power Chord card)
+Neutral
+5
+5
+5
+Promotion
+Minion
+120
+
+Elven Archer
+Battlecry: Deal 1 damage.
+Neutral
+1
+1
+1
+Basic
+Minion
+1371
+
+Emperor Cobra
+Destroy any minion damaged by this minion.
+Neutral
+3
+2
+3
+Expert
+Minion Beast
+1106
+
+Equality
+Change the Health of ALL minions to 1.
+Paladin
+2
+-1
+-1
+Expert
+Spell
+1794
+
+Ethereal Arcanist
+If you control a Secret at the end of your turn, gain +2/+2.
+Mage
+4
+3
+3
+Expert
+Minion
+467
+
+Eviscerate
+Deal 2 damage. Combo: Deal 4 damage instead.
+Rogue
+2
+-1
+-1
+Expert
+Spell
+2128
+
+Execute
+Destroy a damaged enemy minion.
+Warrior
+1
+-1
+-1
+Basic
+Spell
+1644
+
+Explosive Shot
+Deal 5 damage to a minion and 2 damage to adjacent ones.
+Hunter
+5
+-1
+-1
+Expert
+Spell
+1060
+
+Explosive Trap
+Secret: When your hero is attacked, deal 2 damage to all enemies.
+Hunter
+2
+-1
+-1
+Expert
+Spell
+1927
+
+Eye for an Eye
+Secret: When your hero takes damage, deal that much damage to the enemy hero.
+Paladin
+1
+-1
+-1
+Expert
+Spell
+254
+
+Faceless Manipulator
+Battlecry: Choose a minion and become a copy of it.
+Neutral
+5
+3
+3
+Expert
+Minion
+3788
+
+Faerie Dragon
+Can't be targeted by Spells or Hero Powers.
+Neutral
+2
+3
+2
+Expert
+Minion Dragon
+3758
+
+Fan of Knives
+Deal 1 damage to all enemy minions. Draw a card.
+Rogue
+3
+-1
+-1
+Basic
+Spell
+1206
+
+Far Sight
+Draw a card. That card costs (3) less.
+Shaman
+3
+-1
+-1
+Expert
+Spell
+138
+
+Felguard
+Taunt. Battlecry: Destroy one of your Mana Crystals.
+Demon
+Warlock
+3
+3
+5
+Expert
+Minion
+249
+
+Fen Creeper
+Taunt
+Neutral
+5
+3
+6
+Expert
+Minion
+1235
+
+Feral Spirit
+Summon two 2/3 Spirit Wolves with Taunt. Overload: (2)
+Shaman
+3
+-1
+-1
+Expert
+Spell
+1962
+
+Fiery War Axe
+Warrior
+2
+3
+2
+Basic
+Weapon
+2234
+
+Fire Elemental
+Battlecry: Deal 3 damage.
+Shaman
+6
+6
+5
+Basic
+Minion
+2127
+
+Fireball
+Deal 6 damage.
+Mage
+4
+-1
+-1
+Basic
+Spell
+3295
+
+Flame Imp
+Battlecry: Deal 3 damage to your hero.
+Demon
+Warlock
+1
+3
+2
+Expert
+Minion
+1632
+
+Flamestrike
+Deal 4 damage to all enemy minions.
+Mage
+7
+-1
+-1
+Basic
+Spell
+2707
+
+Flametongue Totem
+Adjacent minions have +2 Attack.
+Totem
+Shaman
+2
+0
+3
+Basic
+Minion
+2080
+
+Flare
+All minions lose Stealth. Destroy all enemy Secrets. Draw a card.
+Hunter
+1
+-1
+-1
+Expert
+Spell
+749
+
+Flesheating Ghoul
+Whenever a minion dies, gain +1 Attack.
+Neutral
+3
+2
+3
+Expert
+Minion
+1242
+
+Force of Nature
+Summon three 2/2 Treants with Charge that die at the end of the turn.
+Druid
+6
+-1
+-1
+Expert
+Spell
+904
+
+Forked Lightning
+Deal 2 damage to 2 random enemy minions. Overload: (2)
+Shaman
+1
+-1
+-1
+Expert
+Spell
+1153
+
+Freezing Trap
+Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more.
+Hunter
+2
+-1
+-1
+Expert
+Spell
+808
+
+Frost Elemental
+Battlecry: Freeze a character.
+Neutral
+6
+5
+5
+Expert
+Minion
+832
+
+Frost Nova
+Freeze all enemy minions.
+Mage
+3
+-1
+-1
+Basic
+Spell
+1055
+
+Frost Shock
+Deal 1 damage to an enemy character and Freeze it.
+Shaman
+1
+-1
+-1
+Basic
+Spell
+329
+
+Frostbolt
+Deal 3 damage to a character and Freeze it.
+Mage
+2
+-1
+-1
+Basic
+Spell
+3136
+
+Frostwolf Grunt
+Taunt
+Neutral
+2
+2
+2
+Basic
+Minion
+873
+
+Frostwolf Warlord
+Battlecry: Gain +1/+1 for each other friendly minion on the battlefield.
+Neutral
+5
+4
+4
+Basic
+Minion
+1771
+
+Frothing Berserker
+Whenever a minion takes damage, gain +1 Attack.
+Warrior
+3
+2
+4
+Expert
+Minion
+1598
+
+Gadgetzan Auctioneer
+Whenever you cast a spell, draw a card.
+Neutral
+5
+4
+4
+Expert
+Minion
+2446
+
+Gelbin Mekkatorque
+Battlecry: Summon an AWESOME invention.
+Neutral
+6
+6
+6
+Promotion
+Minion
+359
+
+Gladiator's Longbow
+Your hero is Immune while attacking.
+Hunter
+7
+5
+2
+Expert
+Weapon
+477
+
+Gnomish Inventor
+Battlecry: Draw a card.
+Neutral
+4
+2
+4
+Basic
+Minion
+2101
+
+Goldshire Footman
+Taunt
+Neutral
+1
+1
+2
+Basic
+Minion
+993
+
+Gorehowl
+Attacking a minion costs 1 Attack instead of 1 Durability.
+Warrior
+7
+7
+1
+Expert
+Weapon
+1066
+
+Grimscale Oracle
+ALL other Murlocs have +1 Attack.
+Neutral
+1
+1
+1
+Basic
+Minion Murloc
+1014
+
+Grommash Hellscream
+Charge. Enrage: +6 Attack
+Warrior
+8
+4
+9
+Expert
+Minion
+991
+
+Gruul
+At the end of each turn, gain +1/+1 .
+Neutral
+8
+7
+7
+Expert
+Minion
+397
+
+Guardian of Kings
+Battlecry: Restore 6 Health to your hero.
+Paladin
+7
+5
+6
+Basic
+Minion
+1681
+
+Gurubashi Berserker
+Whenever this minion takes damage, gain +3 Attack.
+Neutral
+5
+2
+7
+Basic
+Minion
+2088
+
+Hammer of Wrath
+Deal 3 damage. Draw a card.
+Paladin
+4
+-1
+-1
+Basic
+Spell
+2005
+
+Hand of Protection
+Give a minion Divine Shield.
+Paladin
+1
+-1
+-1
+Basic
+Spell
+944
+
+Harrison Jones
+Battlecry: Destroy your opponent's weapon and draw cards equal to its Durability.
+Neutral
+5
+5
+4
+Expert
+Minion
+360
+
+Harvest Golem
+Deathrattle: Summon a 2/1 Damaged Golem.
+Neutral
+3
+2
+3
+Expert
+Minion
+6777
+
+Headcrack
+Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn.
+Rogue
+3
+-1
+-1
+Expert
+Spell
+516
+
+Healing Touch
+Restore 8 Health.
+Druid
+3
+-1
+-1
+Basic
+Spell
+861
+
+Hellfire
+Deal 3 damage to ALL characters.
+Warlock
+4
+-1
+-1
+Basic
+Spell
+1215
+
+Heroic Strike
+Give your hero +4 Attack this turn.
+Warrior
+2
+-1
+-1
+Basic
+Spell
+878
+
+Hex
+Transform a minion into a 0/1 Frog with Taunt.
+Shaman
+3
+-1
+-1
+Basic
+Spell
+2380
+
+Hogger
+At the end of your turn, summon a 2/2 Gnoll with Taunt.
+Neutral
+6
+4
+4
+Expert
+Minion
+914
+
+Holy Fire
+Deal 5 damage. Restore 5 Health to your hero.
+Priest
+6
+-1
+-1
+Expert
+Spell
+1312
+
+Holy Light
+Restore 6 Health.
+Paladin
+2
+-1
+-1
+Basic
+Spell
+802
+
+Holy Nova
+Deal 2 damage to all enemies. Restore 2 Health to all friendly characters.
+Priest
+5
+-1
+-1
+Basic
+Spell
+2794
+
+Holy Smite
+Deal 2 damage.
+Priest
+1
+-1
+-1
+Basic
+Spell
+1757
+
+Holy Wrath
+Draw a card and deal damage equal to its cost.
+Paladin
+5
+-1
+-1
+Expert
+Spell
+242
+
+Houndmaster
+Battlecry: Give a friendly Beast +2/+2 and Taunt.
+Hunter
+4
+4
+3
+Basic
+Minion
+1571
+
+Humility
+Change a minion's Attack to 1.
+Paladin
+1
+-1
+-1
+Basic
+Spell
+523
+
+Hungry Crab
+Battlecry: Destroy a Murloc and gain +2/+2.
+Neutral
+1
+1
+2
+Expert
+Minion Beast
+281
+
+Hunter's Mark
+Change a minion's Health to 1.
+Hunter
+0
+-1
+-1
+Basic
+Spell
+1363
+
+Ice Barrier
+Secret: As soon as your hero is attacked, gain 8 Armor.
+Mage
+3
+-1
+-1
+Expert
+Spell
+876
+
+Ice Block
+Secret: When your hero takes fatal damage, prevent it and become Immune this turn.
+Mage
+3
+-1
+-1
+Expert
+Spell
+750
+
+Ice Lance
+Freeze a character. If it was already Frozen, deal 4 damage instead.
+Mage
+1
+-1
+-1
+Expert
+Spell
+1001
+
+Illidan Stormrage
+Whenever you play a card, summon a 2/1 Flame of Azzinoth.
+Demon
+6
+7
+5
+Expert
+Minion
+628
+
+Imp Master
+At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.
+Neutral
+3
+1
+5
+Expert
+Minion
+1376
+
+Injured Blademaster
+Battlecry: Deal 4 damage to HIMSELF.
+Neutral
+3
+4
+7
+Expert
+Minion
+1457
+
+Inner Fire
+Change a minion's Attack to be equal to its Health.
+Priest
+1
+-1
+-1
+Expert
+Spell
+1004
+
+Inner Rage
+Deal 1 damage to a minion and give it +2 Attack.
+Warrior
+0
+-1
+-1
+Expert
+Spell
+1137
+
+Innervate
+Gain 2 Mana Crystals this turn only.
+Druid
+0
+-1
+-1
+Basic
+Spell
+2314
+
+Ironbark Protector
+Taunt
+Druid
+8
+8
+8
+Basic
+Minion
+916
+
+Ironbeak Owl
+Battlecry: Silence a minion.
+Neutral
+2
+2
+1
+Expert
+Minion Beast
+4248
+
+Ironforge Rifleman
+Battlecry: Deal 1 damage.
+Neutral
+3
+2
+2
+Basic
+Minion
+524
+
+Ironfur Grizzly
+Taunt
+Neutral
+3
+3
+3
+Basic
+Minion Beast
+2726
+
+Jungle Panther
+Stealth
+3
+4
+2
+Expert
+Minion Beast
+1304
+
+Keeper of the Grove
+Choose One - Deal 2 damage; or Silence a minion.
+Druid
+4
+2
+4
+Expert
+Minion
+2134
+
+Kidnapper
+Combo: Return a minion to its owner's hand.
+Rogue
+6
+5
+3
+Expert
+Minion
+92
+Kill Command
+Deal 3 damage. If you have a Beast, deal 5 damage instead.
+Hunter
+3
+-1
+-1
+Basic
+Spell
+2212
+
+King Krush
+Charge
+Hunter
+9
+8
+8
+Expert
+Minion Beast
+581
+
+King Mukla
+Battlecry: Give your opponent 2 Bananas.
+Neutral
+3
+5
+5
+Expert
+Minion Beast
+567
+
+Kirin Tor Mage
+Battlecry: The next Secret you play this turn costs (0).
+Mage
+3
+4
+3
+Expert
+Minion
+676
+
+Knife Juggler
+After you summon a minion, deal 1 damage to a random enemy.
+Neutral
+2
+3
+2
+Expert
+Minion
+4336
+
+Kobold Geomancer
+Spell Damage +1
+2
+2
+2
+Basic
+Minion
+2019
+
+Kor'kron 
+Charge
+Warrior
+4
+4
+3
+Basic
+Minion
+1293
+
+Lava Burst
+Deal 5 damage. Overload: (2)
+Shaman
+3
+-1
+-1
+Expert
+Spell
+855
+
+Lay on Hands
+Restore 8 Health. Draw 3 cards.
+Paladin
+8
+-1
+-1
+Expert
+Spell
+1153
+
+Leeroy Jenkins
+Charge. Battlecry: Summon two 1/1 Whelps for your opponent.
+Neutral
+4
+6
+2
+Expert
+Minion
+3352
+
+Leper Gnome
+Deathrattle: Deal 2 damage to the enemy hero.
+Neutral
+1
+2
+1
+Expert
+Minion
+3673
+
+Light's Justice
+Paladin
+1
+1
+4
+Basic
+Weapon
+336
+
+Lightning Bolt
+Deal 3 damage. Overload: (1)
+Shaman
+1
+-1
+-1
+Expert
+Spell
+1946
+
+Lightning Storm
+Deal 2-3 damage to all enemy minions. Overload: (2)
+Shaman
+3
+-1
+-1
+Expert
+Spell
+2059
+
+Lightspawn
+This minion's Attack is always equal to its Health.
+Priest
+4
+0
+5
+Expert
+Minion
+1117
+
+Lightwarden
+Whenever a character is healed, gain +2 Attack.
+Neutral
+1
+1
+2
+Expert
+Minion
+711
+
+Lightwell
+At the start of your turn, restore 3 Health to a damaged friendly character.
+Priest
+2
+0
+5
+Expert
+Minion
+795
+
+Loot Hoarder
+Deathrattle: Draw a card.
+Neutral
+2
+2
+1
+Expert
+Minion
+4202
+
+Lord Jaraxxus
+Battlecry: Destroy your hero and replace him with Lord Jaraxxus.
+Demon
+Warlock
+9
+3
+15
+Expert
+Minion
+976
+
+Lord of the Arena
+Taunt
+Neutral
+6
+6
+5
+Basic
+Minion
+1568
+
+Lorewalker Cho
+Whenever a player casts a spell, put a copy into the other player’s hand.
+Neutral
+2
+0
+4
+Expert
+Minion
+318
+
+Mad Bomber
+Battlecry: Deal 3 damage randomly split between all other characters.
+Neutral
+2
+3
+2
+Expert
+Minion
+1271
+
+Magma Rager
+3
+5
+1
+Basic
+Minion
+184
+
+Malygos
+Spell Damage +5
+9
+4
+12
+Expert
+Minion Dragon
+807
+
+Mana Addict
+Whenever you cast a spell, gain +2 Attack this turn.
+Neutral
+2
+1
+3
+Expert
+Minion
+511
+
+Mana Tide Totem
+At the end of your turn, draw a card.
+Totem
+Shaman
+3
+0
+3
+Expert
+Minion
+1450
+
+Mana Wraith
+ALL minions cost (1) more.
+Neutral
+2
+2
+2
+Expert
+Minion
+228
+
+Mana Wyrm
+Whenever you cast a spell, gain +1 Attack.
+Mage
+1
+1
+3
+Expert
+Minion
+2221
+
+Mark of Nature
+Choose One - Give a minion +4 Attack; or +4 Health and Taunt.
+Druid
+3
+-1
+-1
+Expert
+Spell
+706
+
+Mark of the Wild
+Give a minion Taunt and +2/+2. (+2 Attack/+2 Health)
+Druid
+2
+-1
+-1
+Basic
+Spell
+1121
+
+Mass Dispel
+Silence all enemy minions. Draw a card.
+Priest
+4
+-1
+-1
+Expert
+Spell
+440
+
+Master of Disguise
+Battlecry: Give a friendly minion Stealth.
+Rogue
+4
+4
+4
+Expert
+Minion
+254
+
+Master Swordsmith
+At the end of your turn, give another random friendly minion +1 Attack.
+Neutral
+2
+1
+3
+Expert
+Minion
+783
+
+Millhouse Manastorm
+Battlecry: Enemy spells cost (0) next turn.
+Neutral
+2
+4
+4
+Expert
+Minion
+200
+
+Mind Blast
+Deal 5 damage to the enemy hero.
+Priest
+2
+-1
+-1
+Basic
+Spell
+660
+
+Mind Control
+Take control of an enemy minion.
+Priest
+10
+-1
+-1
+Basic
+Spell
+2267
+
+Mind Control Tech
+Battlecry: If your opponent has 4 or more minions, take control of one at random.
+Neutral
+3
+3
+3
+Expert
+Minion
+777
+
+Mind Vision
+Put a copy of a random card in your opponent's hand into your hand.
+Priest
+1
+-1
+-1
+Basic
+Spell
+693
+
+Mindgames
+Put a copy of a random minion from your opponent's deck into the battlefield.
+Priest
+4
+-1
+-1
+Expert
+Spell
+321
+
+Mirror Entity
+Secret: When your opponent plays a minion, summon a copy of it.
+Mage
+3
+-1
+-1
+Expert
+Spell
+952
+
+Mirror Image
+Summon two 0/2 minions with Taunt.
+Mage
+1
+-1
+-1
+Basic
+Spell
+1913
+
+Misdirection
+Secret: When a character attacks your hero, instead he attacks another random character.
+Hunter
+2
+-1
+-1
+Expert
+Spell
+825
+
+Mogu'shan Warden
+Taunt
+Neutral
+4
+1
+7
+Expert
+Minion
+1223
+
+Molten Giant
+Costs (1) less for each damage your hero has taken.
+Neutral
+20  8
+8
+Expert
+Minion
+1470
+
+Moonfire
+Deal 1 damage.
+Druid
+0
+-1
+-1
+Basic
+Spell
+328
+
+Mortal Coil
+Deal 1 damage to a minion. If that kills it, draw a card.
+Warlock
+1
+-1
+-1
+Basic
+Spell
+1761
+
+Mortal Strike
+Deal 4 damage. If you have 12 or less Health, deal 6 instead.
+Warrior
+4
+-1
+-1
+Expert
+Spell
+579
+
+Mountain Giant
+Costs (1) less for each other card in your hand.
+Neutral
+12  8
+8
+Expert
+Minion
+929
+
+Multi-Shot
+Deal 3 damage to two random enemy minions.
+Hunter
+4
+-1
+-1
+Basic
+Spell
+1387
+
+Murloc Raider
+Neutral
+1
+2
+1
+Basic
+Minion Murloc
+970
+
+Murloc Tidecaller
+Whenever a Murloc is summoned, gain +1 Attack.
+Neutral
+1
+1
+2
+Expert
+Minion Murloc
+961
+
+Murloc Tidehunter
+Battlecry: Summon a 1/1 Murloc Scout.
+Neutral
+2
+2
+1
+Basic
+Minion Murloc
+1716
+
+Murloc Warleader
+ALL other Murlocs have +2/+1.
+Neutral
+3
+3
+3
+Expert
+Minion Murloc
+901
+
+Nat Pagle
+At the start of your turn, you have a 50% chance to draw an extra card.
+Neutral
+2
+0
+4
+Expert
+Minion
+2194
+
+Naturalize
+Destroy a minion. Your opponent draws 2 cards.
+Druid
+1
+-1
+-1
+Expert
+Spell
+449
+
+Nightblade
+Battlecry: Deal 3 damage to the enemy hero.
+Neutral
+5
+4
+4
+Basic
+Minion
+928
+
+Noble Sacrifice
+Secret: When an enemy attacks, summon a 2/1 Defender as the new target.
+Paladin
+1
+-1
+-1
+Expert
+Spell
+951
+
+Northshire Cleric
+Whenever a minion is healed, draw a card.
+Priest
+1
+1
+3
+Basic
+Minion
+2549
+
+Nourish
+Choose One - Gain 2 Mana Crystals; or Draw 3 cards.
+Druid
+5
+-1
+-1
+Expert
+Spell
+887
+
+Novice Engineer
+Battlecry: Draw a card.
+Neutral
+2
+1
+1
+Basic
+Minion
+5030
+
+Nozdormu
+Players only have 15 seconds to take their turns.
+Neutral
+9
+8
+8
+Expert
+Minion Dragon
+223
+
+Oasis Snapjaw
+4
+2
+7
+Basic
+Minion Beast
+655
+
+Ogre Magi
+Spell Damage +1
+4
+4
+4
+Basic
+Minion
+1432
+
+Old Murk-Eye
+Charge. Has +1 Attack for each other Murloc on the battlefield.
+Neutral
+4
+2
+4
+Reward
+Minion Murloc
+878
+
+Onyxia
+Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.
+Neutral
+9
+8
+8
+Expert Dragon
+Minion
+443
+
+Patient Assassin
+Stealth. Destroy any minion damaged by this minion.
+Rogue
+2
+1
+1
+Expert
+Minion
+196
+
+Perdition's Blade
+Battlecry: Deal 1 damage. Combo: Deal 2 instead.
+Rogue
+3
+2
+2
+Expert
+Weapon
+837
+
+Pint-Sized Summoner
+The first minion you play each turn costs (1) less.
+Neutral
+2
+2
+2
+Expert
+Minion
+694
+
+Pit Lord
+Battlecry: Deal 5 damage to your hero.
+Demon
+Warlock
+4
+5
+6
+Expert
+Minion
+207
+
+Polymorph
+Transform a minion into a 1/1 Sheep.
+Mage
+4
+-1
+-1
+Basic
+Spell
+2666
+
+Power of the Wild
+Choose One - Give your minions +1/+1; or Summon a 3/2 Panther.
+Druid
+2
+-1
+-1
+Expert
+Spell
+1048
+
+Power Overwhelming
+Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.
+Warlock
+1
+-1
+-1
+Expert
+Spell
+1414
+
+Power Word: Shield
+Give a minion +2 Health. Draw a card.
+Priest
+1
+-1
+-1
+Basic
+Spell
+2623
+
+Preparation
+The next spell you cast this turn costs (3) less.
+Rogue
+0
+-1
+-1
+Expert
+Spell
+644
+
+Priestess of Elune
+Battlecry: Restore 4 Health to your hero.
+Neutral
+6
+5
+4
+Expert
+Minion
+500
+
+Prophet Velen
+Double the damage and healing of your spells and Hero Power.
+Priest
+7
+7
+7
+Expert
+Minion
+681
+
+Pyroblast
+Deal 10 damage.
+Mage
+10
+-1
+-1
+Expert
+Spell
+1613
+
+Questing Adventurer
+Whenever you play a card, gain +1/+1.
+Neutral
+3
+2
+2
+Expert
+Minion
+1482
+
+Raging Worgen
+Enrage: Windfury and +1 Attack
+3
+3
+3
+Expert
+Minion
+2349
+
+Ragnaros the Firelord
+Can't Attack. At the end of your turn, deal 8 damage to a random enemy.
+Neutral
+8
+8
+8
+Expert
+Minion
+4358
+
+Raid Leader
+Your other minions have +1 Attack.
+Neutral
+3
+2
+2
+Basic
+Minion
+1522
+
+Rampage
+Give a damaged minion +3/+3.
+Warrior
+2
+-1
+-1
+Expert
+Spell
+631
+
+Ravenholdt Assassin
+Stealth
+7
+7
+5
+Expert
+Minion
+655
+
+Razorfen Hunter
+Battlecry: Summon a 1/1 Boar.
+Neutral
+3
+2
+3
+Basic
+Minion
+1442
+
+Reckless Rocketeer
+Charge
+Neutral
+6
+5
+2
+Basic
+Minion
+776
+
+Redemption
+Secret: When one of your minions dies, return it to life with 1 Health.
+Paladin
+1
+-1
+-1
+Expert
+Spell
+735
+
+Repentance
+Secret: When your opponent plays a minion, reduce its Health to 1.
+Paladin
+1
+-1
+-1
+Expert
+Spell
+298
+
+River Crocolisk
+2
+2
+3
+Basic
+Minion Beast
+1273
+
+Rockbiter Weapon
+Give a friendly character +3 Attack this turn.
+Shaman
+1
+-1
+-1
+Basic
+Spell
+1985
+
+Sacrificial Pact
+Destroy a Demon. Restore 5 Health to your hero.
+Warlock
+0
+-1
+-1
+Basic
+Spell
+263
+
+Sap
+Return an enemy minion to your opponent's hand.
+Rogue
+2
+-1
+-1
+Basic
+Spell
+925
+
+Savage Roar
+Give your characters +2 Attack this turn.
+Druid
+3
+-1
+-1
+Basic
+Spell
+1239
+
+Savagery
+Deal damage equal to your hero's Attack to a minion.
+Druid
+1
+-1
+-1
+Expert
+Spell
+138
+
+Savannah Highmane
+Deathrattle: Summon two 2/2 Hyenas.
+Hunter
+6
+6
+5
+Expert
+Minion Beast
+1374
+
+Scarlet Crusader
+Divine Shield
+Neutral
+3
+3
+1
+Expert
+Minion
+1989
+
+Scavenging Hyena
+Whenever a friendly Beast dies, gain +2/+1.
+Hunter
+2
+2
+2
+Expert
+Minion Beast
+1526
+
+Sea Giant
+Costs (1) less for each other minion on the battlefield.
+Neutral
+10  8
+8
+Expert
+Minion
+732
+
+Secretkeeper
+Whenever a Secret is played, gain +1/+1.
+Neutral
+1
+1
+2
+Expert
+Minion
+393
+
+Sen'jin Shieldmasta
+Taunt
+Neutral
+4
+3
+5
+Basic
+Minion
+5793
+
+Sense Demons
+Put 2 random Demons from your deck into your hand.
+Warlock
+3
+-1
+-1
+Expert
+Spell
+381
+
+Shadow Bolt
+Deal 4 damage to a minion.
+Warlock
+3
+-1
+-1
+Basic
+Spell
+1332
+
+Shadow Madness
+Gain control of an enemy minion with 3 or less Attack until end of turn.
+Priest
+4
+-1
+-1
+Expert
+Spell
+888
+
+Shadow Word: Death
+Destroy a minion with an Attack of 5 or more.
+Priest
+3
+-1
+-1
+Basic
+Spell
+2654
+
+Shadow Word: Pain
+Destroy a minion with 3 or less Attack.
+Priest
+2
+-1
+-1
+Basic
+Spell
+2537
+
+Shadowflame
+Destroy a friendly minion and deal its Attack damage to all enemy minions.
+Warlock
+4
+-1
+-1
+Expert
+Spell
+1045
+
+Shadowform
+Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
+Priest
+3
+-1
+-1
+Expert
+Spell
+392
+
+Shadowstep
+Return a friendly minion to your hand. It costs (2) less.
+Rogue
+0
+-1
+-1
+Expert
+Spell
+1053
+
+Shattered Sun Cleric
+Battlecry: Give a friendly minion +1/+1.
+Neutral
+3
+3
+2
+Basic
+Minion
+5795
+
+Shield Block
+Gain 5 Armor. Draw a card.
+Warrior
+3
+-1
+-1
+Basic
+Spell
+1219
+
+Shield Slam
+Deal 1 damage to a minion for each Armor you have.
+Warrior
+1
+-1
+-1
+Expert
+Spell
+621
+
+Shieldbearer
+Taunt
+Neutral
+1
+0
+4
+Expert
+Minion
+1358
+
+Shiv
+Deal 1 damage. Draw a card.
+Rogue
+2
+-1
+-1
+Basic
+Spell
+1073
+
+SI:7 Agent
+Combo: Deal 2 damage.
+Rogue
+3
+3
+3
+Expert
+Minion
+1744
+
+Silence
+Silence a minion.
+Priest
+0
+-1
+-1
+Expert
+Spell
+519
+
+Silver Hand Knight
+Battlecry: Summon a 2/2 Squire.
+Neutral
+5
+4
+4
+Expert
+Minion
+1924
+
+Silverback Patriarch
+Taunt
+Neutral
+3
+1
+4
+Basic
+Minion Beast
+749
+
+Silvermoon Guardian
+Divine Shield
+Neutral
+4
+3
+3
+Expert
+Minion
+975
+
+Sinister Strike
+Deal 3 damage to the enemy hero.
+Rogue
+1
+-1
+-1
+Basic
+Spell
+536
+
+Siphon Soul
+Destroy a minion. Restore 3 Health to your hero.
+Warlock
+6
+-1
+-1
+Expert
+Spell
+1118
+
+Slam
+Deal 2 damage to a minion. If it survives, draw a card.
+Warrior
+2
+-1
+-1
+Expert
+Spell
+1136
+
+Snake Trap
+Secret: When one of your minions is attacked, summon three 1/1 Snakes.
+Hunter
+2
+-1
+-1
+Expert
+Spell
+752
+
+Snipe
+Secret: When your opponent plays a minion, deal 4 damage to it.
+Hunter
+2
+-1
+-1
+Expert
+Spell
+749
+
+Sorcerer's Apprentice
+Your spells cost (1) less.
+Mage
+2
+3
+2
+Expert
+Minion
+1715
+
+Soul of the Forest
+Give your minions "Deathrattle: Summon a 2/2 Treant."
+Druid
+4
+-1
+-1
+Expert
+Spell
+490
+
+Soulfire
+Deal 4 damage. Discard a random card.
+Warlock
+0
+-1
+-1
+Basic
+Spell
+2142
+
+Southsea Captain
+Your other Pirates have +1/+1.
+Neutral
+3
+3
+3
+Expert
+Minion Pirate
+268
+
+Southsea Deckhand
+Has Charge while you have a weapon equipped.
+Neutral
+1
+2
+1
+Expert
+Minion Pirate
+673
+
+Spellbender
+Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target.
+Mage
+3
+-1
+-1
+Expert
+Spell
+404
+
+Spellbreaker
+Battlecry: Silence a minion.
+Neutral
+4
+4
+3
+Expert
+Minion
+3878
+
+Spiteful Smith
+Enrage: Your weapon has +2 Attack.
+Neutral
+5
+4
+6
+Expert
+Minion
+949
+
+Sprint
+Draw 4 cards.
+Rogue
+7
+-1
+-1
+Basic
+Spell
+563
+
+Stampeding Kodo
+Battlecry: Destroy a random enemy minion with 2 or less Attack.
+Neutral
+5
+3
+5
+Expert
+Minion Beast
+1359
+
+Starfall
+Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.
+Druid
+5
+-1
+-1
+Expert
+Spell
+1472
+
+Starfire
+Deal 5 damage. Draw a card.
+Druid
+6
+-1
+-1
+Basic
+Spell
+1086
+
+Starving Buzzard
+Whenever you summon a Beast, draw a card.
+Hunter
+2
+2
+1
+Basic
+Minion Beast
+2226
+
+Stonetusk Boar
+Charge
+Neutral
+1
+1
+1
+Basic
+Minion Beast
+1036
+
+Stormforged Axe
+Overload: (1)
+Shaman
+2
+2
+3
+Expert
+Weapon
+1585
+
+Stormpike Commando
+Battlecry: Deal 2 damage.
+Neutral
+5
+4
+2
+Basic
+Minion
+853
+
+Stormwind Champion
+Your other minions have +1/+1.
+Neutral
+7
+6
+6
+Basic
+Minion
+2657
+
+Stormwind Knight
+Charge
+Neutral
+4
+2
+5
+Basic
+Minion
+821
+
+Stranglethorn Tiger
+Stealth
+5
+5
+5
+Expert
+Minion Beast
+1499
+
+Succubus
+Battlecry: Discard a random card.
+Demon
+Warlock
+2
+4
+3
+Basic
+Minion
+420
+
+Summoning Portal
+Your minions cost (2) less, but not less than (1).
+Warlock
+4
+0
+4
+Expert
+Minion
+442
+
+Sunfury Protector
+Battlecry: Give adjacent minions Taunt.
+Neutral
+2
+2
+3
+Expert
+Minion
+3059
+
+Sunwalker
+Taunt. Divine Shield
+Neutral
+6
+4
+5
+Expert
+Minion
+2833
+
+Swipe
+Deal 4 damage to an enemy and 1 damage to all other enemies.
+Druid
+4
+-1
+-1
+Basic
+Spell
+2656
+
+Sword of Justice
+Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.
+Paladin
+3
+1
+5
+Expert
+Weapon
+1325
+
+Sylvanas Windrunner
+Deathrattle: Take control of a random enemy minion.
+Neutral
+6
+5
+5
+Expert
+Minion
+2812
+
+Tauren Warrior
+Taunt. Enrage: +3 Attack
+3
+2
+3
+Expert
+Minion
+1025
+
+Temple Enforcer
+Battlecry: Give a friendly minion +3 Health.
+Priest
+6
+6
+6
+Expert
+Minion
+1016
+
+The Beast
+Deathrattle: Summon a 3/3 Finkle Einhorn for your opponent.
+Neutral
+6
+9
+7
+Expert
+Minion Beast
+341
+
+The Black Knight
+Battlecry: Destroy an enemy minion with Taunt.
+Neutral
+6
+4
+5
+Expert
+Minion
+2005
+
+Thoughtsteal
+Copy 2 cards from your opponent's deck and put them into your hand.
+Priest
+3
+-1
+-1
+Expert
+Spell
+1474
+
+Thrallmar Farseer
+Windfury
+Neutral
+3
+2
+3
+Expert
+Minion
+550
+
+Timber Wolf
+Your other Beasts have +1 Attack.
+Hunter
+1
+1
+1
+Basic
+Minion Beast
+2109
+
+Tinkmaster Overspark
+Battlecry: Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.
+Neutral
+3
+3
+3
+Expert
+Minion
+1797
+
+Tirion Fordring
+Divine Shield. Taunt. Deathrattle: Equip a 5/3 Ashbringer.
+Paladin
+8
+6
+6
+Expert
+Minion
+1465
+
+Totemic Might
+Give your Totems +2 Health.
+Shaman
+0
+-1
+-1
+Basic
+Spell
+207
+
+Tracking
+Look at the top three cards of your deck. Draw one and discard the others.
+Hunter
+1
+-1
+-1
+Basic
+Spell
+1232
+
+Truesilver Champion
+Whenever your hero attacks, restore 2 Health to it.
+Paladin
+4
+4
+2
+Basic
+Weapon
+2817
+
+Tundra Rhino
+Your Beasts have Charge.
+Hunter
+5
+2
+5
+Basic
+Minion Beast
+1098
+
+Twilight Drake
+Battlecry: Gain +1 Health for each card in your hand.
+Neutral
+4
+4
+1
+Expert 
+Minion Dragon
+1619
+
+Twisting Nether
+Destroy all minions.
+Warlock
+8
+-1
+-1
+Expert
+Spell
+293
+
+Unbound Elemental
+Whenever you play a card with Overload, gain +1/+1.
+Shaman
+3
+2
+4
+Expert
+Minion
+1317
+
+Unleash the Hounds
+For each enemy minion, summon a 1/1 Hound with Charge.
+Hunter
+2
+-1
+-1
+Expert
+Spell
+2112
+
+Upgrade!
+If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.
+Warrior
+1
+-1
+-1
+Expert
+Spell
+576
+
+Vanish
+Return all minions to their owner's hand.
+Rogue
+6
+-1
+-1
+Basic
+Spell
+201
+
+Vaporize
+Secret: When a minion attacks your hero, destroy it.
+Mage
+3
+-1
+-1
+Expert
+Spell
+593
+
+Venture Co. Mercenary
+Your minions cost (3) more.
+Neutral
+5
+7
+6
+Expert
+Minion
+1171
+
+Violet Teacher
+Whenever you cast a spell, summon a 1/1 Violet Apprentice.
+Neutral
+4
+3
+5
+Expert
+Minion
+951
+
+Void Terror
+Battlecry: Destroy the minions on either side of this minion and gain their Attack and Health.
+Warlock
+3
+3
+3
+Expert
+Minion Demon
+451
+
+Voidwalker
+Taunt
+Warlock
+1
+1
+3
+Basic
+Minion Demon
+2006
+
+Voodoo Doctor
+Battlecry: Restore 2 Health.
+Neutral
+1
+2
+1
+Basic
+Minion
+1104
+
+War Golem
+
+Neutral
+7
+7
+7
+Basic
+Minion
+456
+
+Warsong Commander
+Whenever you summon a minion with 3 or less Attack, give it Charge.
+Warrior
+3
+2
+3
+Basic
+Minion
+1295
+
+Water Elemental
+Freeze any character damaged by this minion.
+Mage
+4
+3
+6
+Basic
+Minion
+1823
+
+Whirlwind
+Deal 1 damage to ALL minions.
+Warrior
+1
+-1
+-1
+Basic
+Spell
+1239
+
+Wild Growth
+Gain an empty Mana Crystal.
+Druid
+2
+-1
+-1
+Basic
+Spell
+772
+
+Wild Pyromancer
+After you cast a spell, deal 1 damage to ALL minions.
+Neutral
+2
+3
+2
+Expert
+Minion
+2052
+
+Windfury
+Give a minion Windfury.
+Shaman
+2
+-1
+-1
+Basic
+Spell
+750
+
+Windfury Harpy
+Windfury
+Neutral
+6
+4
+5
+Expert
+Minion
+598
+
+Windspeaker
+Battlecry: Give a friendly minion Windfury.
+Shaman
+4
+3
+3
+Basic
+Minion
+761
+
+Wisp
+
+Neutral
+0
+1
+1
+Expert
+Minion
+322
+
+Wolfrider
+Charge
+Neutral
+3
+3
+1
+Basic
+Minion
+1804
+
+Worgen Infiltrator
+Stealth
+Neutral
+1
+2
+1
+Expert
+Minion
+1124
+
+Wrath
+Choose One - Deal 3 damage to a minion; or 1 damage and draw a card.
+Druid
+2
+-1
+-1
+Expert
+Spell
+2375
+
+Young Dragonhawk
+Windfury
+Neutral
+1
+1
+1
+Expert
+Minion Beast
+634
+
+Young Priestess
+At the end of your turn, give another random friendly minion +1 Health.
+Neutral
+1
+2
+1
+Expert
+Minion
+1388
+
+Youthful Brewmaster
+Battlecry: Return a friendly minion from the battlefield to your hand.
+Neutral
+2
+3
+2
+Expert
+Minion
+1548
+
+Ysera
+At the end of your turn, draw a Dream Card.
+Neutral
+9
+4
+12
+Expert
+Minion Dragon
+2363
+
+Huffer
+Charge
+Hunter
+3
+4
+2
+Basic
+Minion Beast
+2282
+
+Midna
+Taunt
+Hunter
+3
+4
+4
+Basic
+Minion Beast
+2282
+
+Leokk
+Other friendly minions have +1 Attack.
+Hunter
+3
+4
+4
+Basic
+Minion Beast
+2282
+
+Squire
+
+Neutral
+1
+2
+2
+Expert
+Minion
+1924
+
+Flame of Azzinoth
+
+Neutral
+1
+2
+1
+Expert
+Minion
+628
+
+Emerald Drake
+
+Neutral
+4
+7
+6
+Expert
+Minion Dragon
+2363
+
+Laughing Sister
+Can't be targeted by spells or hero powers.
+Neutral
+3
+3
+5
+Expert
+Minion
+2363
+
+Nightmare
+Give a minion +5/+5. At the start of your next turn, destroy it.
+Neutral
+0
+-1
+-1
+Expert
+Spell
+2363
+
+Ysera Awakens
+Deal 5 damage to all characters except Ysera.
+Neutral
+2
+-1
+-1
+Expert
+Spell
+2363
+
+Finkle Einhorn
+
+Neutral
+2
+3
+3
+Expert
+Minion
+341
